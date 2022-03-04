@@ -9,7 +9,7 @@ To create a random generated password between the length of 8 and 128 characters
 *JavaScript
 
 ## Website
-
+https://thetryworks.github.io/Random-Password-Generator/
 
 
 ## Contribution
